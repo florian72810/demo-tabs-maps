@@ -1,0 +1,7 @@
+{
+  "name": "demo-tabs-maps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
